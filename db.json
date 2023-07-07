@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1994",
+      "address": {
+        "city": "Lahore",
+        "state": "Cairo",
+        "zipCode": "123"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Tom",
+      "email": "Tom@example.com",
+      "age": 20,
+      "dateOfBirth": "1-12-1998",
+      "address": {
+        "city": "Karachi",
+        "state": "California",
+        "zipCode": "123"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Jack",
+      "email": "Jack@example.com",
+      "age": 25,
+      "dateOfBirth": "12-03-1997",
+      "address": {
+        "city": "Lahore",
+        "state": "Cairo",
+        "zipCode": "123"
+      }
+    },
+    {
+      "name": "John Edit",
+      "email": "johnEdit@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 4
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 6
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 7
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 8
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 9
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 11
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 12
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 14
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 15
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 16
+    },
+    {
+      "name": "John New",
+      "email": "johnNew@example.com",
+      "age": 18,
+      "dateOfBirth": "12-12-1996",
+      "address": {
+        "city": "Karachi",
+        "state": "KPK",
+        "zipCode": "123"
+      },
+      "id": 17
+    }
+  ]
+}
