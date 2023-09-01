@@ -3,8 +3,8 @@ const { isEmptyObject } = require("../helpers");
 module.exports = async (url, id) => {
   try {
     const options = {
-      method: "DELETE", // *GET, POST, PUT, DELETE, etc.
-      mode: "cors", // no-cors, *cors, same-origin
+      method: "DELETE", 
+      mode: "cors",
       cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
       credentials: "same-origin", // include, *same-origin, omit
       headers: {
