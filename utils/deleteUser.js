@@ -5,12 +5,12 @@ module.exports = async (url, id) => {
     const options = {
       method: "DELETE", 
       mode: "cors",
-      cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
-      credentials: "same-origin", // include, *same-origin, omit
+      cache: "no-cache", 
+      credentials: "same-origin",
       headers: {
         "Content-Type": "application/json",
       },
-      redirect: "follow", // manual, *follow, error
+      redirect: "follow",
       referrerPolicy: "no-referrer",
     };
 
